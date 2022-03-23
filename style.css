@@ -1,0 +1,32 @@
+img.octocat {
+    height: 200px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    padding: 20px;
+}
+
+.blue {
+    background-color: lightblue;
+}
+.pink {
+    background-color: pink;
+}
+
+.white {
+    background-color: white;
+}
